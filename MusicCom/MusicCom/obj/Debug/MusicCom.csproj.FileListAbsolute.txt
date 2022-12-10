@@ -1,0 +1,11 @@
+C:\Users\Алексей\DataBaseApp\MusicCom\MusicCom\bin\Debug\MusicCom.exe.config
+C:\Users\Алексей\DataBaseApp\MusicCom\MusicCom\bin\Debug\MusicCom.exe
+C:\Users\Алексей\DataBaseApp\MusicCom\MusicCom\bin\Debug\MusicCom.pdb
+C:\Users\Алексей\DataBaseApp\MusicCom\MusicCom\obj\Debug\MusicCom.csproj.AssemblyReference.cache
+C:\Users\Алексей\DataBaseApp\MusicCom\MusicCom\obj\Debug\MusicCom.Properties.Resources.resources
+C:\Users\Алексей\DataBaseApp\MusicCom\MusicCom\obj\Debug\MusicCom.csproj.GenerateResource.cache
+C:\Users\Алексей\DataBaseApp\MusicCom\MusicCom\obj\Debug\MusicCom.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\DataBaseApp\MusicCom\MusicCom\obj\Debug\MusicCom.exe
+C:\Users\Алексей\DataBaseApp\MusicCom\MusicCom\obj\Debug\MusicCom.pdb
+C:\Users\Алексей\DataBaseApp\MusicCom\MusicCom\bin\Debug\MC.mdb
+C:\Users\Алексей\DataBaseApp\MusicCom\MusicCom\obj\Debug\MusicCom.Form1.resources
